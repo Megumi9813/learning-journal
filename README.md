@@ -1,4 +1,4 @@
-**To me, _growth mindset_ is always seek evolution and never get tired of the status quo, and find effective ways to reach your desires and long-term goals.**
+# **To me, _growth mindset_ is always seek evolution and never get tired of the status quo, and find effective ways to reach your desires and long-term goals.**
 
 [learn more about growth mindset](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies)
 
