@@ -3,13 +3,14 @@
 [learn more about growth mindset](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies)
 
 
-## growth mindset ##
-
 - [ ]  Openness
+[Openness](https://www.123test.com/personality-openness/)
 
 - [ ]  Inclusivity 
+[Inclusivity](https://dictionary.cambridge.org/dictionary/english/inclusivity)
 
 - [ ]  Ambition and Initiative 
+[Ambition and Initiative](https://sites.psu.edu/academy/2017/09/24/initiative-and-ambition/)
 
 *My name is Megumi and I'm an Immigration Agent who aspires to learn how to code*
 
