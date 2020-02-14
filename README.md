@@ -2,7 +2,8 @@
 
 [learn more about growth mindset](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies)
 
-- [ Growth]  (growth.md)
+- [ ]  Growth
+[Growth](growth.md)
 
 - [ ]  Openness
 [Openness](https://www.123test.com/personality-openness/)
